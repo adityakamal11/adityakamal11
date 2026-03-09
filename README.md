@@ -1,9 +1,11 @@
-# Adi
+<h1 align="center">Aditya Kamal</h1>
 
-DevOps Engineer | Cloud Infrastructure | IaC | CI/CD  
-
-AWS-focused engineer building scalable cloud infrastructure and automated pipelines.
-
+<p align="center">
+DevOps Engineer • Cloud Infrastructure
+</p>
+<p align="center">
+Building scalable cloud platforms, automated pipelines, and production-grade DevOps architectures.
+</p>
 ---
 
 ## 🚀 Projects
