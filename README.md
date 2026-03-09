@@ -3,7 +3,10 @@
 <p align="center">
 DevOps Engineer | Cloud Infrastructure | CI/CD
 <p align="center">
-Building scalable cloud platforms, automated CI/CD pipelines, and production-grade DevOps architectures on AWS. Focused on Kubernetes, infrastructure as code, and observability to deliver reliable, secure, and highly available systems.
+Cloud engineer automating infrastructure across AWS and Kubernetes.
+</p>
+<p align="center">
+Building reliable, production-ready deployment pipelines using Terraform, Docker, and modern CI/CD practices.
 </p>
 
 ## 🚀 Projects
