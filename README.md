@@ -1,12 +1,10 @@
 <h1 align="center">Aditya Kamal</h1>
 
 <p align="center">
-DevOps Engineer • Cloud Infrastructure
-</p>
+DevOps Engineer | Cloud Infrastructure | CI/CD
 <p align="center">
-Building scalable cloud platforms, automated pipelines, and production-grade DevOps architectures.
+Building scalable cloud platforms, automated CI/CD pipelines, and production-grade DevOps architectures on AWS. Focused on Kubernetes, infrastructure as code, and observability to deliver reliable, secure, and highly available systems.
 </p>
----
 
 ## 🚀 Projects
 
