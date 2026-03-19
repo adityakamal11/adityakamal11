@@ -1,35 +1,48 @@
 <h1 align="center">Aditya Kamal</h1>
-
 <p align="center">
-DevOps Engineer | Cloud Infrastructure | CI/CD
-<p align="center">
-Cloud engineer automating infrastructure across AWS and Kubernetes.
+  <b>DevOps Engineer | Cloud Infrastructure | CI/CD</b><br>
+  Cloud engineer automating infrastructure across AWS and Kubernetes.<br>
+  Building reliable, production-ready deployment pipelines using Terraform, Docker, and modern CI/CD practices.
 </p>
-<p align="center">
-Building reliable, production-ready deployment pipelines using Terraform, Docker, and modern CI/CD practices.
-</p>
-
-## 🚀 Projects
-
-- 🌐 **Multi-Environment URL Shortener on ECS**
-- ☸️ **EKS Cluster with GitOps (ArgoCD)**
-- 🔐 **ECS Threat Modelling Project**
-- 🤖 **AI Image Classifier on AKS**
-- 📡 **API Health Checker with Azure Container Apps**
 
 ---
 
-## 🧰 Tech Stack
+### 🚀 Projects
 
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+- 🌍 [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) – Production-ready URL shortener service with Terraform-managed multi-env setup, blue/green deployments, WAF protection, and GitHub OIDC CI/CD 
+- ☸️ [**EKS Cluster with full GitOps and Observability**](https://github.com/isaiah1701/k8-eks) – Production-grade EKS cluster with GitOps via ArgoCD, Prometheus/Grafana observability, and external-dns & cert-manager automation
+- 🔐 [**ECS Threat Modelling**](https://github.com/isaiah1701/ECSThreatModellingProject) – Secure ECS service deployment using Terraform, IAM least privilege, and hardened CI/CD pipeline
+- 🟦 [**AI Image Classifier powered by AKS**](https://github.com/isaiah1701/AKSProject) – Full-stack AKS deployment with ArgoCD GitOps, HTTPS ingress, monitoring stack, and Helm-managed image classification app
+- 🐳 [**API Health Checker via Azure Container Apps**](https://github.com/isaiah1701/AzureContainerApp) – Lightweight containerized app deployed via Azure Container Apps using Terraform, Docker, and secure ACR CI/CD pipeline
+
 
 ---
 
-## 📫 Contact
+### 🧰 Tech Stack
 
-- LinkedIn
-- Email: contact@adityakamal.com
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="30"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  &nbsp;
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="40" height="40"/>
+  &nbsp;
+  <img src="https://helm.sh/img/helm.svg" alt="Helm" width="40" height="40"/>
+</p>
+
+
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+📧 contact@adityakamal.com
