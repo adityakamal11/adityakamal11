@@ -9,12 +9,10 @@
 
 ### 🚀 Projects
 
-- 🌍 [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) – Production-ready URL shortener service with Terraform-managed multi-env setup, blue/green deployments, WAF protection, and GitHub OIDC CI/CD 
-- ☸️ [**EKS Cluster with full GitOps and Observability**](https://github.com/isaiah1701/k8-eks) – Production-grade EKS cluster with GitOps via ArgoCD, Prometheus/Grafana observability, and external-dns & cert-manager automation
-- 🔐 [**ECS Threat Modelling**](https://github.com/isaiah1701/ECSThreatModellingProject) – Secure ECS service deployment using Terraform, IAM least privilege, and hardened CI/CD pipeline
-- 🟦 [**AI Image Classifier powered by AKS**](https://github.com/isaiah1701/AKSProject) – Full-stack AKS deployment with ArgoCD GitOps, HTTPS ingress, monitoring stack, and Helm-managed image classification app
-- 🐳 [**API Health Checker via Azure Container Apps**](https://github.com/isaiah1701/AzureContainerApp) – Lightweight containerized app deployed via Azure Container Apps using Terraform, Docker, and secure ACR CI/CD pipeline
-
+- 🌍 [**CI/CD Pipeline for ECS Fargate with ECR & RDS**](https://github.com/adityakamal11/CI-CD-Pipeline-for-ECS-Fargate-with-ECR-and-RDS) – End-to-end CI/CD pipeline deploying containerized applications to AWS ECS Fargate using ECR, integrated with RDS, and automated via GitHub Actions/Terraform for scalable production workloads
+- ☸️ [**Kubernetes MERN App Deployment**](https://github.com/adityakamal11/K8s-MERN-App-Deployment) – Production-ready MERN stack deployed on Kubernetes with persistent storage, ConfigMaps/Secrets, and scalable microservices architecture
+- 🎬 [**Movie Streaming Application (DevOps)**](https://github.com/adityakamal11/Movie-Streaming-App) – Containerized streaming platform with Docker, automated CI/CD pipelines, AWS infrastructure provisioning, and monitoring using Prometheus & Grafana
+- 🚀 [**DevOps Master Pipeline End-To-End**](https://github.com/adityakamal11/Devops-Master-Pipeline-End-To-End) – Comprehensive DevOps pipeline covering code build, testing, Dockerization, CI/CD automation, and deployment using industry-standard tools like Jenkins, Docker, and Kubernetes
 
 ---
 
@@ -44,5 +42,5 @@
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakamal11/)  
 📧 contact@adityakamal.com
